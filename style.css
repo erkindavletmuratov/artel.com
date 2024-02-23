@@ -37,8 +37,14 @@ li {
 
 .ul1 {
     display: flex;
-   
 }
+.ul7 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 h3 {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
@@ -79,6 +85,7 @@ select {
     
     
 }
+
 
 .matn2 {
     text-align: center;
@@ -145,3 +152,141 @@ select {
     width: 1000px;
     height: 300px;
 }
+
+.ul2 {
+    flex-direction: column;
+    display: flex;
+}
+
+.li2 {
+ 
+    margin: 10px;
+    font-size: 12px;
+    margin-left: 150px;
+    
+}
+
+.footer1 {
+    background-color: #4D5158;
+}
+
+.div1 {
+    background-color: #4D5158;
+    width: 1400px;
+    display: flex;
+}
+
+.a1 {
+    color: rgb(175, 174, 174);
+}
+
+.ul3 {
+    flex-direction: column;
+    display: flex;
+}
+
+.li3 {
+    
+    margin: 10px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.a2 {
+    color: rgb(175, 174, 174) ;
+}
+
+.ul4 {
+    flex-direction: column;
+    display: flex;
+}
+
+.li4 {
+    margin: 10px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.a4 {
+    color: rgb(175, 174, 174) ;
+}
+
+.white {
+    color: white;
+}
+
+.ul5 {
+    flex-direction: column;
+    display: flex;
+}
+
+.li5 {
+    margin: 10px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.a5 {
+    color: rgb(175, 174, 174) ;
+}
+
+.img6 {
+    height: 30px;
+    margin-left: 90px;
+    
+}
+
+.img7 {
+    height: 30px;
+    margin: 10px;
+    
+}
+
+.li6 {
+    display: flex;
+    align-items: center;
+}
+
+.img8 {
+    height: 30px;
+    margin: 2px;
+}
+
+.img9 {
+    height: 30px;
+    margin: 8px;
+}
+
+
+.div2 {
+    background-color: #4D5158;
+    width: 1400px;
+    padding-bottom: 20px;
+    display: flex;
+   
+}
+
+.p1 {
+    margin-left: 150px;
+    width: 700px;
+    color: white;
+    font-size: 15px;
+
+}
+
+.button2 {
+    border-radius: 20px;
+    height: 40px;
+    padding: 10px;
+    background-color: #4D5158;
+    color: white;
+    border-color: white;
+    padding-bottom: 25px;
+}
+
+.button2:hover {
+    background-color: white;
+    color: black;
+}
+
+
