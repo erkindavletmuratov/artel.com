@@ -15,6 +15,7 @@ body {
 a {
     text-decoration: none;
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -37,6 +38,8 @@ li {
 
 .ul1 {
     display: flex;
+    align-items: center;
+    margin-top: 20px;
 }
 .ul7 {
     display: flex;
@@ -52,10 +55,13 @@ h3 {
 
 .h3 {
     color: red;
+    font-size: 16px;
 }
 
 .li1 {
     margin: 6px;
+    align-items: center;
+
 
 }
 
@@ -65,6 +71,7 @@ h3 {
 
 .blue {
     color: blue;
+    
 }
 
 .brown {
@@ -94,11 +101,13 @@ select {
     left: 50px;
     top: 250px;
     z-index: 2;
+    font-size: 20px;
+    color: white;
     
 }
 
 .matn2:hover {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid white;
 }
 
 .img2 {
@@ -172,7 +181,7 @@ select {
 
 .div1 {
     background-color: #4D5158;
-    width: 1400px;
+    width: 1200px;
     display: flex;
 }
 
@@ -260,7 +269,7 @@ select {
 
 .div2 {
     background-color: #4D5158;
-    width: 1400px;
+    width: 1200px;
     padding-bottom: 20px;
     display: flex;
    
@@ -358,6 +367,37 @@ textarea {
 .button3:active {
     background-color: #4D5158;
     color: white;
+}
+
+.a9 {
+    color: black;
+    font-size: 30px;
+    border: 1px solid green;
+    display: inline-block;
+    padding-right: 890px;
+    background-color: green;
+    color: white;
+}
+
+.class3 {
+   width: 1300px;
+}
+
+.matn9 {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    left: 50px;
+    top: 250px;
+    z-index: 2;
+    font-size: 30px;
+    color: black;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.matn:hover {
+    border-bottom: 1px solid black;
 }
 
 
